@@ -42,8 +42,9 @@
 
 
 ## Пример 
-#Обучение
+#Начальный датасет
 
-![image](https://github.com/pmi31Roberto/Andrey_Anatolyevich/assets/120023351/0b5c40df-f5b6-4b7d-a1e1-804c2a166293)
-#Графики
-![image](https://github.com/pmi31Roberto/Andrey_Anatolyevich/assets/120023351/9e5ff93c-1735-45c0-b50a-daa5c01bc3aa)
+![image](https://github.com/pmi31Roberto/Andrey_Anatolyevich2/assets/120023351/82d89604-c1ac-47b5-81f0-e6ed3c23aaf9)
+
+#Преобразованный датасет
+![image](https://github.com/pmi31Roberto/Andrey_Anatolyevich2/assets/120023351/efc3a48f-af77-4c1f-bede-bfaa1a9a3b6a)
